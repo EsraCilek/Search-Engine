@@ -1,0 +1,16 @@
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\WebOdev.dll.config
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\WebOdev.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\WebOdev.pdb
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\HotGlue.Core.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\HtmlAgilityPack.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\NUglify.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\SassAndCoffee.Core.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\SassAndCoffee.JavaScript.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\HtmlAgilityPack.pdb
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\HtmlAgilityPack.xml
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\esra_\Desktop\WebOdev\WebOdev\bin\NUglify.xml
+C:\Users\esra_\Desktop\WebOdev\WebOdev\obj\Release\WebOdev.csproj.CoreCompileInputs.cache
+C:\Users\esra_\Desktop\WebOdev\WebOdev\obj\Release\WebOdev.dll
+C:\Users\esra_\Desktop\WebOdev\WebOdev\obj\Release\WebOdev.pdb
